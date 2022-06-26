@@ -1,6 +1,6 @@
 # Funções
 
-Projetos referentes ao curso "Funções" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Projetos referentes ao curso "Funções" do bootcamp da Santander em parceria com a [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade 1: Alunos Aprovados
 
