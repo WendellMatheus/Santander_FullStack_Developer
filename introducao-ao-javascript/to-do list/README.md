@@ -14,6 +14,3 @@ O resultado esperado é parecido com este:
 
 ![Exemplo de to-do list](assets/exemplo.png)
 
-## Bons estudos!
-
-Não esqueça de publicar a sua versão do projeto no seu Github também! :smile:

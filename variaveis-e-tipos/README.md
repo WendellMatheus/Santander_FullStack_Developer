@@ -1,6 +1,6 @@
 # Variáveis e Tipos
 
-Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" do bootcamp da Santander em parceria com a [Digital Innovation One](https://digitalinnovation.one/).
+Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" que faz parte do bootcamp da Santander em parceria com a [Digital Innovation One](https://digitalinnovation.one/).
 ## Atividade 1
 
 Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
