@@ -21,8 +21,9 @@
 ## Módulos Bootcamp
 
 - [Introdução - Lógica de Programação](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
-- [TypeScript](https://github.com/WendellMatheus/Santander_FullStack_Developer/commit/d1916831c9aa2adb2358c459bc73ef02738ffc6f)
+- [TypeScript](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/TypeScript)
 - [Angular](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Angular)
+- [POO](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/JAVA/POO)
 - [Java](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/JAVA)
 - [Spring Framework](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Spring%20Framework)
 
@@ -30,6 +31,13 @@
 
 - [Desafios de Código JavaScript](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Desafios%20de%20C%C3%B3digo%20JS)
 - [Desafios de Código Java](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Desafios%20de%20C%C3%B3digo%20JAVA)
+- [Course Manager](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Angular/course-manager-master)
+- [Lista de Usuários - CRUD](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Angular/crud-dio-angular-main)
+- [Cadastro de Alunos](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Angular/SPA-Angular-main)
+- [E-commerce](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Angular/E-commerce)
+- [Banco]()
+- [Padrões de Projeto Spring](https://github.com/WendellMatheus/Santander_FullStack_Developer/tree/main/Spring%20Framework/lab-padroes-projeto-spring-main)
+
 
 
 ## Conclusão do Bootcamp: 26/07/2022
